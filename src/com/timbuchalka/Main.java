@@ -38,7 +38,7 @@ public class Main {
 
         footballLeague.matchResult(bears, bees, 3, 2);
         footballLeague.matchResult(bees, boats, 1, 3);
-        footballLeague.matchResult(boats, bears, 4, 2);
+        footballLeague.matchResult(boats, bears, 4, 5);
 
         footballLeague.printLeague();
 
